@@ -1,6 +1,27 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
+# 2pos_switch
+#
+DEF 2pos_switch SW 0 0 N Y 1 F N
+F0 "SW" 0 200 50 H V C CNN
+F1 "2pos_switch" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C -150 0 25 0 1 0 N
+C 150 -100 25 0 1 0 N
+C 150 100 25 0 1 0 N
+P 2 0 1 0  -200 0  -175 0 N
+P 2 0 1 0  -120 0  125 95 N
+P 2 0 1 0  175 -100  200 -100 N
+P 2 0 1 0  175 100  200 100 N
+X 1 1 300 100 100 L 50 50 1 1 P
+X 2 2 -300 0 100 R 50 50 1 1 P
+X 3 3 300 -100 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Microampermeter
 #
 DEF Microampermeter PA 0 0 N N 1 F N
