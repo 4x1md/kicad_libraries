@@ -4,14 +4,31 @@ Custom KiCad components used in my projects.
 
 ## Examples
 
-### Symbols
+### General Symbols and Footprints
 
   ![Symbols I](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/symbols_01.png)
 
-### Footprints
-
   ![Footprints I](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/footprints_01.png)
+  
+### PJ-311D SMD 3.5mm Headphones Jack
 
+  ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-311D.jpg)
+
+  ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-311D.jpg.png)
+  
+### PJ-31060 SMD 3.5mm Headphones Jack
+
+  ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-31060.jpg)
+
+  ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-31060.png)
+
+### Microampermeter For PCB Mounting
+
+  I needed this microampermeter for my [QRP SWR Meter](https://github.com/4x5dm/qrp_swr_meter) project.
+
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/microampermeter.png)
+
+  
 ## Components Library Installation 
 
 1. Download the [custom_kicad_symbols](https://github.com/4x5dm/kicad_libraries/tree/master/custom_kicad_symbols) folder to your computer.
