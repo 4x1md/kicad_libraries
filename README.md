@@ -2,6 +2,16 @@
 
 Custom KiCad components used in my projects.
 
+## Examples
+
+### Symbols
+
+  ![Symbols I](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/symbols_01.png)
+
+### Footprints
+
+  ![Footprints I](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/footprints_01.png)
+
 ## Components Library Installation 
 
 1. Download the [custom_kicad_symbols](https://github.com/4x5dm/kicad_libraries/tree/master/custom_kicad_symbols) folder to your computer.
