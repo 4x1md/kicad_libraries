@@ -5,6 +5,11 @@ D inverseur
 K switch
 $ENDCMP
 #
+$CMP CH340G
+D CH340G USB UART
+K ch340g, usb, uart
+$ENDCMP
+#
 $CMP Microampermeter
 D Microampermeter
 $ENDCMP
