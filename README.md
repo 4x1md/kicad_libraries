@@ -29,6 +29,15 @@ Custom KiCad components used in my projects.
   ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/microampermeter.png)
 
   
+### Mini USB Connectors
+
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/datasheets/USB Mini Horizontal.jpg)
+
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/datasheets/USB Mini Vertical.jpg)
+  
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/mini_usb_throughhole.png)
+
+  
 ## Components Library Installation 
 
 1. Download the [custom_kicad_symbols](https://github.com/4x5dm/kicad_libraries/tree/master/custom_kicad_symbols) folder to your computer.
