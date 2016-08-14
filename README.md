@@ -12,13 +12,13 @@ Custom KiCad components used in my projects.
   
 ### PJ-311D SMD 3.5mm Headphones Jack
 
-  ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-311D.jpg)
+  ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/datasheets/Jack PJ-311D.jpg)
 
   ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-311D.png)
   
 ### PJ-31060 SMD 3.5mm Headphones Jack
 
-  ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-31060.jpg)
+  ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/datasheets/Jack PJ-31060.jpg)
 
   ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/doc/images/PJ-31060.png)
 
