@@ -10,8 +10,18 @@ D CH340G USB UART
 K ch340g, usb, uart
 $ENDCMP
 #
+$CMP GY-NEO6MV2
+D GY-NEO6MV2 GPS module based on ublox NEO-6M chip
+K gps neo ublox
+$ENDCMP
+#
 $CMP Microampermeter
 D Microampermeter
+$ENDCMP
+#
+$CMP SW_PUSH_BUTTON
+D Button
+K Switch
 $ENDCMP
 #
 $CMP uA_meter
