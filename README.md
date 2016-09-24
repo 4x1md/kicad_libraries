@@ -24,7 +24,9 @@ Custom KiCad components used in my projects.
 
 ### Microampermeter For PCB Mounting
 
-  I needed this microampermeter for my [QRP SWR Meter](https://github.com/4x5dm/qrp_swr_meter) project.
+  Tuning meter from an old radio receiver which I used in my [QRP SWR Meter](https://github.com/4x5dm/qrp_swr_meter) project.
+
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/microampermeter.jpg)
 
   ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/microampermeter.png)
 
