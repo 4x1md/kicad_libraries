@@ -5,6 +5,11 @@ D inverseur
 K switch
 $ENDCMP
 #
+$CMP 3.5mm_4_conductors_audio_plug
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
 $CMP CH340G
 D CH340G USB UART
 K ch340g, usb, uart

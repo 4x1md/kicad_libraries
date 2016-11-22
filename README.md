@@ -22,6 +22,12 @@ Custom KiCad components used in my projects.
 
   ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-31060.png)
 
+### 3.5mm Headphones Jack With Microphone, 4 pins, 6 contacts
+
+  ![P3.5mm headphones with microphone jack](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/3.5mm_6_contacts_4_conductors_audio_plug.png)
+
+  ![P3.5mm headphones with microphone jack](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/3.5mm_6_contacts_4_conductors_audio_plug.png)
+
 ### Microampermeter For PCB Mounting
 
   Tuning meter from an old radio receiver which I used in my [QRP SWR Meter](https://github.com/4x5dm/qrp_swr_meter) project.
