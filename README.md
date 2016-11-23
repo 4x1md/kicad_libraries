@@ -26,10 +26,10 @@ Custom KiCad components used in my projects.
 
   The footprint is designed for 0.8x0.45mm pins.
   
+  ![SPDT Slide Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/SPDT-slide-switch.png)
+  
   ![SPDT Slide Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/SPDT-slide-switch.png)
   
-  ![SPDT Slide Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/SPDT-slide-switch.png)
-
 ### SPDT Slide Switch
 
   ![P3.5mm headphones with microphone jack](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/3.5mm_6_contacts_4_conductors_audio_plug.png)
