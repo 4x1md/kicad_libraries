@@ -29,6 +29,21 @@ $CMP Microampermeter
 D Microampermeter
 $ENDCMP
 #
+$CMP Mini-DIN_6pins
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP Mini-DIN_6pins_ver2
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP Mini-DIN_6pins_ver3
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
 $CMP SW_PUSH_BUTTON
 D Button
 K Switch
