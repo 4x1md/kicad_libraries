@@ -53,6 +53,14 @@ Custom KiCad components used in my projects.
   
   ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/mini_usb_throughhole.png)
 
+### Mini-DIN 6 Pin Connector
+
+  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Connector_MiniDIN-Female_6Pin_2rows.png)
+
+  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/Connector_MiniDIN-Female_6Pin_2rows_symbols.png)
+  
+  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/Connector_MiniDIN-Female_6Pin_2rows_footprints.png)
+
   
 ## Components Library Installation 
 
