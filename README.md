@@ -29,6 +29,18 @@ Custom KiCad components used in my projects.
   ![SPDT Slide Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/SPDT-slide-switch.png)
   
   ![SPDT Slide Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/SPDT-slide-switch.png)
+
+### PJ-320E Through Hole 3.5mm Headphones Jack With Microphone
+
+  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320E.jpg)
+
+  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E.png)
+
+### PJ-320D/DS SMD 3.5mm Headphones Jack With Microphone
+
+  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320DS.jpg)
+
+  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320DS.png)
   
 ### SPDT Slide Switch
 
