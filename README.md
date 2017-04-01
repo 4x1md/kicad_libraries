@@ -22,7 +22,7 @@ Custom KiCad components used in my projects.
 
   ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-31060.png)
 
-### 3.5mm Headphones Jack With Microphone, 4 pins, 6 contacts
+### SPDT Slide Switch
 
   The footprint is designed for 0.8x0.45mm pins.
   
@@ -32,17 +32,17 @@ Custom KiCad components used in my projects.
 
 ### PJ-320E Through Hole 3.5mm Headphones Jack With Microphone
 
-  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320E.jpg)
+  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320E.png)
 
-  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E.png)
+  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E.jpg)
 
 ### PJ-320D/DS SMD 3.5mm Headphones Jack With Microphone
 
-  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320DS.jpg)
+  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320DS.png)
 
-  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320DS.png)
+  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320DS.jpg)
   
-### SPDT Slide Switch
+### 3.5mm Headphones Jack With Microphone, 4 pins, 6 contacts
 
   ![P3.5mm headphones with microphone jack](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/3.5mm_6_contacts_4_conductors_audio_plug.png)
 
