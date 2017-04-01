@@ -56,12 +56,11 @@ Custom KiCad components used in my projects.
 
   ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/microampermeter.png)
 
-  
 ### Mini USB Connectors
 
-  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/USB Mini Horizontal.jpg)
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/USB_Mini_Horizontal.jpg)
 
-  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/USB Mini Vertical.jpg)
+  ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/USB_Mini_Vertical.jpg)
   
   ![Microampermeter](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/mini_usb_throughhole.png)
 
