@@ -36,7 +36,7 @@ Custom KiCad components used in my projects.
 
   ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E.jpg)
   
-  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320E_footprint.png)
+  ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E_footprint.png)
 
 ### PJ-320D/DS SMD 3.5mm Headphones Jack With Microphone
 
@@ -44,7 +44,7 @@ Custom KiCad components used in my projects.
 
   ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320DS.jpg)
   
-  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/PJ-320D_footprint.png)
+  ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320D_footprint.png)
   
 ### 3.5mm Headphones Jack With Microphone, 4 pins, 6 contacts
 
