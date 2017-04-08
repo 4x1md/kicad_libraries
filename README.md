@@ -76,7 +76,15 @@ Custom KiCad components used in my projects.
   
   ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/Connector_MiniDIN_Female_6Pin_2rows_footprints.png)
 
+### Philmore 30-20001 SPDT Switch
+
+  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Philmore_30-20001_SPDT_Switch.png)
+
   
+### Cliff UT1x SPDT Switch
+
+  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Cliff_UT1x.png)
+
 ## Components Library Installation 
 
 1. Download the [custom_kicad_symbols](https://github.com/4x5dm/kicad_libraries/tree/master/custom_kicad_symbols) folder to your computer.
