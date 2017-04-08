@@ -78,12 +78,11 @@ Custom KiCad components used in my projects.
 
 ### Philmore 30-20001 SPDT Switch
 
-  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Philmore_30-20001_SPDT_Switch.png)
-
+  ![Philmore 30-20001 SPDT Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Philmore_30-20001_SPDT_Switch.png)
   
 ### Cliff UT1x SPDT Switch
 
-  ![Mini-DIN 6 Pin Connector](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Cliff_UT1x.png)
+  ![Cliff UT1x SPDT Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Cliff_UT1x.png)
 
 ## Components Library Installation 
 
