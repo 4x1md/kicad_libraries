@@ -16,7 +16,7 @@ Custom KiCad components used in my projects.
 
   ![PJ-311D](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-311D.png)
   
-  Since April 11, 2017 this footprint is available in the KiCad's official [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
+  Since April 11, 2017 this footprint is available in official KiCad [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
   
 ### PJ-31060 SMD 3.5mm Headphones Jack
 
@@ -24,7 +24,7 @@ Custom KiCad components used in my projects.
 
   ![PJ-31060](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-31060.png)
   
-  Since April 11, 2017 this footprint is available in the KiCad's official [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
+  Since April 11, 2017 this footprint is available in official KiCad [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
 
 ### SPDT Slide Switch
 
@@ -42,7 +42,7 @@ Custom KiCad components used in my projects.
   
   ![PJ-320E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320E_footprint.png)
   
-  Since April 11, 2017 this footprint is available in the KiCad's official [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
+  Since April 11, 2017 this footprint is available in official KiCad [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
 
 ### PJ-320D/DS SMD 3.5mm Headphones Jack With Microphone
 
@@ -52,7 +52,7 @@ Custom KiCad components used in my projects.
   
   ![PJ-320D/DS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/PJ-320D_footprint.png)
   
-  Since April 11, 2017 this footprint is available in the KiCad's official [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
+  Since April 11, 2017 this footprint is available in official KiCad [Connectors.pretty](https://github.com/KiCad/Connectors.pretty) library.
   
 ### 3.5mm Headphones Jack With Microphone, 4 pins, 6 contacts
 
