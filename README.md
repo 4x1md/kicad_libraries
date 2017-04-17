@@ -91,6 +91,26 @@ Custom KiCad components used in my projects.
 ### Cliff UT1x SPDT Switch
 
   ![Cliff UT1x SPDT Switch](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Cliff_UT1x.png)
+  
+### Seiko MS621FE-FL11E Backup Battery
+
+  ![Seiko MS621FE-FL11E](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Seiko_MS621FE-FL11E_dia.png)
+
+## GPS Modules
+
+### GlobalTop Gms-g9 GNSS Module
+
+  ![GlobalTop Gms-g9](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/Gms-g9_GNSS_Module.png)
+  
+  ![GlobalTop Gms-g9](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Gms-g9_GNSS_Module.png)
+  
+### Quectel L80 GPS Module
+
+  ![L80 GPS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/Quectel_L80_GPS_Module.jpg)
+  
+  ![L80 GPS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Quectel_L80_GPS_Module_1.png)
+
+  ![L80 GPS](https://raw.githubusercontent.com/4x5dm/kicad_libraries/master/docs/images/datasheets/Quectel_L80_GPS_Module_1.png)
 
 ## Components Library Installation 
 
