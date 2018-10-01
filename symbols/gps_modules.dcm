@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GY-NEO6MV2
+D GY-NEO6MV2 GPS module based on ublox NEO-6M chip
+K gps neo ublox
+$ENDCMP
+#
+$CMP Gms-g9_GNSS_Module
+D Gms-g9 GNSS Module
+K gms-g9, g.top015, gps, glonass, gnss
+$ENDCMP
+#
+#End Doc Library

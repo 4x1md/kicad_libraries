@@ -1,0 +1,77 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2pos_switch
+D inverseur
+K switch
+$ENDCMP
+#
+$CMP 2pos_switch_with_shield
+D inverseur
+K switch
+$ENDCMP
+#
+$CMP Audio_plug
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP Audio_plug_2
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP CH340G
+D CH340G USB to UART converter.
+K ch340g usb uart rs232 rs485
+$ENDCMP
+#
+$CMP Microampermeter
+D Microampermeter
+$ENDCMP
+#
+$CMP Mini-DIN_6pins
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP Mini-DIN_6pins_ver2
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP Mini-DIN_6pins_ver3
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP Mini-DIN_6pins_ver4
+D Mini-DIN 6 pins connector with shell
+K connector DIN Mini-DIN 5-pins 41524
+$ENDCMP
+#
+$CMP MountingHole
+D Mounting hole
+K mounting hole
+F ~
+$ENDCMP
+#
+$CMP PJ320D_headphones_plug
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP PJ320E_headphones_plug
+D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
+K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP SW_PUSH_BUTTON
+D Button
+K Switch
+$ENDCMP
+#
+$CMP uA_meter
+D Microampermeter
+$ENDCMP
+#
+#End Doc Library
