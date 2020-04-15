@@ -25,6 +25,17 @@ D CH340G USB to UART converter.
 K ch340g usb uart rs232 rs485
 $ENDCMP
 #
+$CMP CONN_01X03_MALE
+D Connector or pads 01x03.
+K connector pads
+$ENDCMP
+#
+$CMP MAX16054
+D On/Off Controller with Debounce.
+K on off switch push button debounce controller
+F https://datasheets.maximintegrated.com/en/ds/MAX16054.pdf
+$ENDCMP
+#
 $CMP Microampermeter
 D Microampermeter
 $ENDCMP
@@ -63,6 +74,21 @@ $ENDCMP
 $CMP PJ320E_headphones_plug
 D Phone jack with microphone, 3.5mm 6 contacts 4 conductors audio plug.
 K 3.5mm, jack, mic, microphone, phones, headphones, 4 pins, audio, plug
+$ENDCMP
+#
+$CMP SN74LV1T126
+D Buffer with output enable, logic level shifter.
+K buffer output enable level shifter
+$ENDCMP
+#
+$CMP SN74LV1T126_ALT
+D Buffer with output enable, logic level shifter. Alternative symbol.
+K buffer output enable level shifter
+$ENDCMP
+#
+$CMP SN74LV1T126_ALT2
+D Buffer with output enable, logic level shifter. Alternative symbol.
+K buffer output enable level shifter
 $ENDCMP
 #
 $CMP SW_PUSH_BUTTON

@@ -10,4 +10,21 @@ D Gms-g9 GNSS Module
 K gms-g9, g.top015, gps, glonass, gnss
 $ENDCMP
 #
+$CMP Hornet_ORG1411
+D Hornet ORG1411 GPS module.
+K GPS GLONASS GNSS Hornet ORG1411
+F https://origingps.com/wp-content/uploads/2018/06/ORG1411-Datasheet.pdf
+$ENDCMP
+#
+$CMP Hornet_ORG1411_ALT
+D Hornet ORG1411 GPS module, alternative symbol
+K GPS GLONASS GNSS Hornet ORG1411
+F https://origingps.com/wp-content/uploads/2018/06/ORG1411-Datasheet.pdf
+$ENDCMP
+#
+$CMP Maestro_A2235-H
+D Maestro A2235-H GPS module.
+K GPS GLONASS GNSS Maestro A2235-H
+$ENDCMP
+#
 #End Doc Library
