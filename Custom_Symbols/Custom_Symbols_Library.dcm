@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AUP1T08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS Schmitt Level Translation
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LV1T08
+D Single AND Gate, Low-Voltage CMOS
+K Single Gate AND LVC CMOS Schmitt Level Translation
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP TestPoint_Round
+D test point
+K test point tp
+F ~
+$ENDCMP
+#
+#End Doc Library
