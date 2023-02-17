@@ -149,3 +149,17 @@ You are more than welcome to contact me with any questions, suggestions or propo
 1. Visit [my QRZ.COM page](https://www.qrz.com/db/4X5DM)
 2. Visit [my Facebook profile](https://www.facebook.com/Dima.Meln)
 3. Write me an email to iosaaris =at= gmail dot com
+
+## How to Support or Say Thanks
+
+If you like this project, or found here some useful information and want to say thanks, or encourage me to do more, you can buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4ITR7J)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/4x1md)
+
+You can aslo make a donation with PayPal:
+
+[!["Donate with PayPal"](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=NZZWZFH5ZBCCU)
+
+---
